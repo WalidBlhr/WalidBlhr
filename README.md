@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I am currently working on a digital solutions project for logistics companies<br>👯 I work with classmates from the university<br>🌱 I’m currently learning data, cloud and software.
+🔭 Siemens software Engineer intern<br>👯 student of computer science engineering school <br>🌱 I’m currently learning data, cloud and software.
 
 
 ## 🌐 Socials:
