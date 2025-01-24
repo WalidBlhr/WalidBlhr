@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 Siemens software Engineer intern<br>👯 student of computer science engineering school <br>🌱 I’m currently learning data, cloud and software.
+🔭 Siemens software Engineer intern<br>👯 student of computer science engineering school <br>🌱 I’m currently learning software architechture .
 
 
 ## 🌐 Socials:
